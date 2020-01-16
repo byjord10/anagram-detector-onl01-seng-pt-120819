@@ -8,10 +8,8 @@ class Anagram
 
   def match(word_array)
     word_array.split(",") {|word| word.split}
-  end 
-
-
   end
+
 
 
 
